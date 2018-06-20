@@ -24,9 +24,9 @@ In this example  the range is 2 - 7 steps, which makes the hotspot 4.5.
 
 ```
 /* -----------------------------------------
- * Sudo Code for Algorithm
+ * Hotspot Damage Increase Algorithm
  * -----------------------------------------
- *     Variables for Algorithm:
+ *     Variables:
  *         D = Distance From Target in steps
  *         m = Minimum Range for bonus
  *         M = Maximum Range for bonus
