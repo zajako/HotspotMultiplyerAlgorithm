@@ -2,9 +2,11 @@
 By James Covey (zajako@gmail.com)
 
 ## Descripton
+
 This is a sudo code algorithm for giving more points/ for being closer to a hotspot in the center of 2 points.
 
 ## Diagram to demonstrate purpose
+
 * X = Shooter of arrow or whatever
 * Y = Target being hit
 * H = Hotspot or where target should be for maximum value
@@ -13,10 +15,13 @@ This is a sudo code algorithm for giving more points/ for being closer to a hots
 * ] = Maximum range for bonus to apply
 
 ### Example:
-X - [ - - - H - - - ] - Y
+
+``` X - [ - - - H - - - ] - Y ```
+
 In this example  the range is 2 - 7 steps, which makes the hotspot 4.5.
 
 ## Sudo Code for Algorithm
+
 ```
 /* -----------------------------------------
  * Sudo Code for Algorithm
