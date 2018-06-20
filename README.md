@@ -41,5 +41,5 @@ H = (m + M) / 2
 if(D <= m || D >= M)
 	O = 0;
 else
-	O = ((abs(Math.abs(D - H) - H) * T) / H)
+	O = ((abs(abs(D - H) - H) * T) / H)
 ```
