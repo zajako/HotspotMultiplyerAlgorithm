@@ -3,7 +3,7 @@ By James Covey (zajako@gmail.com)
 
 ## Descripton
 
-This is a sudo code algorithm for giving more points/ for being closer to a hotspot in the center of 2 points.
+This is a sudo code algorithm for giving more points/damage for being closer to a hotspot in the center of 2 points.
 
 ## Diagram to demonstrate purpose
 
