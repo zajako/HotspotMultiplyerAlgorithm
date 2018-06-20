@@ -22,7 +22,7 @@
 X - [ - - - H - - - ] - Y
 
 /* -----------------------------------------
- * Sudo Code for Algorithm
+ * Pseudocode Code for Algorithm
  * -----------------------------------------
  *     Variables for Algorithm:
  *         D = Distance From Target in steps
@@ -32,10 +32,10 @@ X - [ - - - H - - - ] - Y
  *         O = Output Points
  * ----------------------------------------- */
 
-# Determine Hotspot from Minimum and Maximum
+// Determine Hotspot from Minimum and Maximum
 H = (m + M) / 2
 
-# Set O to 0 for distances outside of Max and Min
+// Set O to 0 for distances outside of Max and Min
 if(D <= m || D >= M)
 	O = 0;
 else

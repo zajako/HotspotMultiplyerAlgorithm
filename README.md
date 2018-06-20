@@ -3,7 +3,7 @@ By James Covey (zajako@gmail.com)
 
 ## Descripton
 
-This is a sudo code algorithm for giving more points/damage for being closer to a hotspot in the center of 2 points.
+This is a pseudocode algorithm for giving more points/damage for being closer to a hotspot in the center of 2 points.
 
 ## Diagram to demonstrate purpose
 
@@ -20,7 +20,7 @@ This is a sudo code algorithm for giving more points/damage for being closer to 
 
 In this example  the range is 2 - 7 steps, which makes the hotspot 4.5.
 
-## Sudo Code for Algorithm
+## Pseudocode for Algorithm
 
 ```
 /* -----------------------------------------
